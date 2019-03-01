@@ -1,0 +1,23 @@
+.container {
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.current-weather {
+    text-align: center;
+    width: 300px;
+    padding: auto;
+    margin: 120px auto 30px;
+}
+
+h1, h3, p {
+    line-height: 0.5;
+}
+.current-weather div {
+    margin: 30px auto;
+}
+
+.current-specs {
+    width: 450px;
+    margin: auto;
+}
